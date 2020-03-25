@@ -1,4 +1,7 @@
 # ddos-detect
+Source of the data used: https://www.unb.ca/cic/datasets/ddos-2019.html
+
+
 Data used for this analysis include simulated attacks of 5 different DDoS attacks:
 
 - MSSQL
