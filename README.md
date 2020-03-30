@@ -17,4 +17,4 @@ The repository includes a notebook that uses Decission Tree Classifier to classi
 
 The repository includes a notebook that uses Decission Tree Classifier to classify the attacks and beign flows in binary - NetIntDet-Binary
 
-The repository includes an incomplete notebook that t-SNEE to visualize the data based on 2 dimensions - NetIntDet-tsnee
+The repository includes an incomplete notebook that t-SNEE to visualize the data based on 2 dimensions - NetIntDet-tsnee.ipynb
