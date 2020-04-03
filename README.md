@@ -11,10 +11,10 @@ Data used for this analysis include simulated attacks of 5 different DDoS attack
 - UDP
 
 
-The repository includes a dataset that was created by subsampling the attacks of the original datasets and combining with the benign flows - dataLoad_DDoS.ipynb
+The repository includes a dataset that was created by subsampling the attacks of the original datasets and combining with the benign flows - 1_dataLoad-EDA_DDoS.ipynb
 
-The repository includes a notebook that uses Decission Tree Classifier to classify the 5 attacks and beign flows - NetIntDet.ipynb
+The repository includes a notebook that uses Decission Tree Classifier to classify the 5 attacks and beign flows - 2a_multiClass_DDoS.ipynb
 
-The repository includes a notebook that uses Decission Tree Classifier to classify the attacks and beign flows in binary - NetIntDet-Binary
+The repository includes a notebook that uses Decission Tree Classifier to classify the attacks and beign flows in binary - 2b_binary_DDoS.ipynb
 
-The repository includes an incomplete notebook that t-SNEE to visualize the data based on 2 dimensions - NetIntDet-tsnee.ipynb
+The repository includes an incomplete notebook that t-SNEE to visualize the data based on 2 dimensions - 3_PCA-tSNE_DDoS.ipynb
