@@ -18,3 +18,5 @@ The repository includes a notebook that uses Decission Tree Classifier to classi
 The repository includes a notebook that uses Decission Tree Classifier to classify the attacks and beign flows in binary - 2b_binary_DDoS.ipynb
 
 The repository includes an incomplete notebook that t-SNEE to visualize the data based on 2 dimensions - 3_PCA-tSNE_DDoS.ipynb
+
+The repository also includes the report for this project.
